@@ -1,5 +1,3 @@
-P1/venv/*
-.DS_Store
-L1/venv/*
-
+**/venv/*
+**/*.DS_Store
 **/*.ipynb_checkpoints
