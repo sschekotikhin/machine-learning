@@ -2,3 +2,5 @@
 **/*.DS_Store
 **/*.ipynb_checkpoints
 **/.vscode/*
+L8/test/*
+L8/train/*
